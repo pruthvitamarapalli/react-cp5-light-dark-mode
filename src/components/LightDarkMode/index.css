@@ -1,0 +1,32 @@
+.bg-container {
+  height: 100vh;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  border: 2px solid #000000;
+  text-align: center;
+  border-radius: 15px;
+  padding: 20px;
+}
+
+.dark-mode {
+  color: #ffffff;
+  background-color: #000000;
+  
+}
+
+.light-mode {
+  color: #000000;
+  background-color: #ffffff;
+}
+
+button {
+  font-size: 12px;
+  border-radius: 5px;
+  padding: 10px;
+  border: 2px solid #000000;
+}
